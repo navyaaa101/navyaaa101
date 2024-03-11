@@ -29,7 +29,7 @@ I'm Gauresh, a learner from Mangalore. I love coding, exploring new technologies
 
 ### Commit Graph
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gaureshpai)](https://github.com/navyaaa101)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=navyaaa101)](https://github.com/navyaaa101)
 
 ### Profile Views
 
